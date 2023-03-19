@@ -2,7 +2,8 @@
 100 Days Leetcode Challenge in java Language.
 
 ## Day 1 106. Construct Binary Tree from Inorder and Postorder Traversal
-## day 2. 208. Implement Trie (Prefix Tree)
-## day 3. 1472. Design Browser History
-## day 3. 392. Is Subsequence
-##  Day4. 211. Design Add and Search Words Data Structure
+## Day 2. 208. Implement Trie (Prefix Tree)
+## Day 3. 1472. Design Browser History
+## Day 3. 392. Is Subsequence
+## Day4. 211. Design Add and Search Words Data Structure (Medium)
+## Day 4. 206. Reverse Linked List(Easy)
