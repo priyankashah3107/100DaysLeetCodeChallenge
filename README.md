@@ -9,3 +9,4 @@
 ## Day 4. 206. Reverse Linked List(Easy)
 ## Day 5 605. Can Place Flowers
 ## Day 5- 876. Middle of the Linked List
+## Day 6: 2348. Number of Zero-Filled Subarrays
