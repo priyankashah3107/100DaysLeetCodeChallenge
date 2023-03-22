@@ -11,4 +11,4 @@
 ## Day 5- 876. Middle of the Linked List
 ## Day 6: 2348. Number of Zero-Filled Subarrays
 ## Day 7:   2492. Minimum Score of a Path Between Two Cities
-$$ Day 7: 589. N-ary Tree Preorder Traversal
+## Day 7: 589. N-ary Tree Preorder Traversal
