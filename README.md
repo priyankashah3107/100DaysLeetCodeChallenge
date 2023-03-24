@@ -13,3 +13,4 @@
 ## Day 7:   2492. Minimum Score of a Path Between Two Cities
 ## Day 7: 589. N-ary Tree Preorder Traversal
 ## Day 8: 1319. Number of Operations to Make Network Connected
+## Day 9: 1466. Reorder Routes to Make All Paths Lead to the City Zero
