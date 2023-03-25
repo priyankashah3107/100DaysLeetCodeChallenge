@@ -14,3 +14,4 @@
 ## Day 7: 589. N-ary Tree Preorder Traversal
 ## Day 8: 1319. Number of Operations to Make Network Connected
 ## Day 9: 1466. Reorder Routes to Make All Paths Lead to the City Zero
+## Day 10. 2316. Count Unreachable Pairs of Nodes in an Undirected Graph
