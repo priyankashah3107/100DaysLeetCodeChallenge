@@ -15,3 +15,4 @@
 ## Day 8: 1319. Number of Operations to Make Network Connected
 ## Day 9: 1466. Reorder Routes to Make All Paths Lead to the City Zero
 ## Day 10. 2316. Count Unreachable Pairs of Nodes in an Undirected Graph
+## Day 11. 2360. Longest Cycle in a Graph
