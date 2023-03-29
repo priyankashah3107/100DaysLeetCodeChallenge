@@ -18,3 +18,4 @@
 ## Day 11. 2360. Longest Cycle in a Graph
 ## Day 11 64. Minimum Path Sum.
 ## Day 12.  983. Minimum Cost For Tickets
+## Day 13 . 1402. Reducing Dishes
