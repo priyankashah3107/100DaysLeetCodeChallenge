@@ -21,3 +21,5 @@
 ## Day 13 . 1402. Reducing Dishes
 ## Day 13. 70 Climbing Stairs
 ## Day 14 .  87. Scramble String
+## DAY 15.  704. Binary Search
+
