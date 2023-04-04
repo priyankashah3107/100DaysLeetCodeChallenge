@@ -24,4 +24,5 @@
 ## DAY 15.  704. Binary Search
 ## Day 16 .  2300. Successful Pairs of Spells and Potions
 ## Day 17  881. Boats to Save People
+## Day 18.  2405. Optimal Partition of String
 
