@@ -25,4 +25,5 @@
 ## Day 16 .  2300. Successful Pairs of Spells and Potions
 ## Day 17  881. Boats to Save People
 ## Day 18.  2405. Optimal Partition of String
+## Day 19. 2439. Minimize Maximum of Array
 
