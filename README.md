@@ -26,4 +26,5 @@
 ## Day 17  881. Boats to Save People
 ## Day 18.  2405. Optimal Partition of String
 ## Day 19. 2439. Minimize Maximum of Array
+## Day 20. 1254. Number of Closed Islands
 
