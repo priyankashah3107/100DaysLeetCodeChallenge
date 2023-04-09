@@ -29,4 +29,5 @@
 ## Day 20. 1254. Number of Closed Islands
 ## Day 21. 1020. Number of Enclaves
 ## Day 22.  133. Clone Graph
+## Day 23. 1857. Largest Color Value in a Directed Graph
 
