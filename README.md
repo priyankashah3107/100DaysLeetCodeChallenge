@@ -34,4 +34,5 @@
 ## Day 24  28. Find the Index of the First Occurrence in a String
 ## Day 25. 2390. Removing Stars From a String
 ## Day 26  71. Simplify Path
+## Day 27.   946. Validate Stack Sequences
 
