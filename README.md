@@ -37,3 +37,4 @@
 ## Day 27.   946. Validate Stack Sequences.
 ## Day 28. 516 Longest Palindromic Subsequence.
 ## Day 29.  2218. Maximum Value of K Coins From Piles
+## Day 30 .  1639. Number of Ways to Form a Target String Given a Dictionary
