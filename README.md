@@ -38,3 +38,5 @@
 ## Day 28. 516 Longest Palindromic Subsequence.
 ## Day 29.  2218. Maximum Value of K Coins From Piles
 ## Day 30 .  1639. Number of Ways to Form a Target String Given a Dictionary
+## Day 31. 1431. Kids With the Greatest Number of Candies
+
