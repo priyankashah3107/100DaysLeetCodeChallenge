@@ -42,4 +42,5 @@
 ## Day 32. 1768. Merge Strings Alternately
 ## Day 33. 1372. Longest ZigZag Path in a Binary Tree
 ## Day 34. 662. Maximum Width of Binary Tree
+## Day 35  879. Profitable Schemes
 
