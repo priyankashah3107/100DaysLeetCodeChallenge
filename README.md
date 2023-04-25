@@ -46,3 +46,4 @@
 ## Day 36.  1312. Minimum Insertion Steps to Make a String Palindrome
 ## Day 37.  1416. Restore The Array
 ## Day 38. 1046. Last Stone Weight
+## Day 39. 2336. Smallest Number in Infinite Set
