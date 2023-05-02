@@ -53,5 +53,7 @@
 ## Day 43. 1697. Checking Existence of Edge Length Limited Paths
 ## Day 44. 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
 ## Day 45 46, permutation
+## Day 46. 58. Length of Last Word
+
 
 
