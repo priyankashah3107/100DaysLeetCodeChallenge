@@ -54,6 +54,7 @@
 ## Day 44. 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
 ## Day 45 46, permutation
 ## Day 46. 58. Length of Last Word
+## Day 46.  1491. Average Salary Excluding the Minimum and Maximum Salary
 
 
 
