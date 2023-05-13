@@ -56,7 +56,8 @@
 ## Day 46. 58. Length of Last Word
 ## Day 46.  1491. Average Salary Excluding the Minimum and Maximum Salary
 ## Day 47. 2215. Find the Difference of Two Arrays
-## Day 48 1456. Maximum Number of Vowels in a Substring of Given Length
+## Day 48 1456. Maximum Number of Vowels in a Substring of Given Length.
+## Day 49. 2466. Count Ways To Build Good Strings
 
 
 
