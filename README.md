@@ -58,6 +58,7 @@
 ## Day 47. 2215. Find the Difference of Two Arrays
 ## Day 48 1456. Maximum Number of Vowels in a Substring of Given Length.
 ## Day 49. 2466. Count Ways To Build Good Strings
+## Day 50. 934. Shortest Bridge
 
 
 
