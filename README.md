@@ -60,6 +60,7 @@
 ## Day 49. 2466. Count Ways To Build Good Strings
 ## Day 50. 934. Shortest Bridge.
 ## Day 51. 837. New 21 Game.
+## Day 52. 1603. Design Parking System
 
 
 
