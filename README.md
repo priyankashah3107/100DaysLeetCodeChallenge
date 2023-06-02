@@ -61,7 +61,8 @@
 ## Day 50. 934. Shortest Bridge.
 ## Day 51. 837. New 21 Game.
 ## Day 52. 1603. Design Parking System
-# Day 53. 1091. Shortest Path in Binary Matrix.
+## Day 53. 1091. Shortest Path in Binary Matrix.
+## Day 54. 2101. Detonate the Maximum Bombs
 
 
 
