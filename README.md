@@ -64,6 +64,7 @@
 ## Day 53. 1091. Shortest Path in Binary Matrix.
 ## Day 54. 2101. Detonate the Maximum Bombs
 ## Day 55.  1376. Time Needed to Inform All Employees
+## Day 56.  547. Number of Provinces
 
 
 
