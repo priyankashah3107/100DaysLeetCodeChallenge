@@ -71,6 +71,7 @@
 ## Day 60. 744. Find Smallest Letter Greater Than Target.
 ## Day 61. 1146. Snapshot Array.
 ## Day 62. 1187. Make Array Strictly Increasing
+## Day 62. 1732. Find the Highest Altitude
 
 
 
