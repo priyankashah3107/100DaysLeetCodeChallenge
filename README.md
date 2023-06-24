@@ -73,7 +73,9 @@
 ## Day 62. 1187. Make Array Strictly Increasing
 ## Day 63. 1732. Find the Highest Altitude
 ## Day 64. 714. Best Time to Buy and Sell Stock with Transaction Fee
-## Day 65. 1027. Longest Arithmetic Subsequence
+## Day 65. 1027. Longest Arithmetic Subsequence.
+## Day 66. 956. Tallest Billboard
+
 
 
 
