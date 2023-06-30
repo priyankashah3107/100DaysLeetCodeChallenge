@@ -75,9 +75,6 @@
 ## Day 64. 714. Best Time to Buy and Sell Stock with Transaction Fee
 ## Day 65. 1027. Longest Arithmetic Subsequence.
 ## Day 66. 956. Tallest Billboard
-
-
-
-
+## Day 67. Last Day Where You Can Still Cross
 
 
