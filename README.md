@@ -81,4 +81,5 @@
 ## Day 70. 1493. Longest Subarray of 1's After Deleting One Element
 ## Day 71. 2024. Maximize the Confusion of an Exam
 ## Day 72. 2551. Put Marbles in Bags
+## Day 73. 111. Minimum Depth of Binary Tree
 
