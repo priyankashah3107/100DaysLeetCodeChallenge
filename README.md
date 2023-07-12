@@ -82,4 +82,5 @@
 ## Day 71. 2024. Maximize the Confusion of an Exam
 ## Day 72. 2551. Put Marbles in Bags
 ## Day 73. 111. Minimum Depth of Binary Tree
+## Day 74. 802. Find Eventual Safe States
 
