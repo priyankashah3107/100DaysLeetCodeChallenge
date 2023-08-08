@@ -68,7 +68,7 @@
 ## Day 57. 1232. Check If It Is a Straight Line.
 ## Day 58. 1502. Can Make Arithmetic Progression From Sequence.
 ## Day 59. 1351. Count Negative Numbers in a Sorted Matrix
-## Day 60. 744. Find Smallest Letter Greater Than Target.
+## Day 60. 744. Find the Smallest Letter Greater Than Target.
 ## Day 61. 1146. Snapshot Array.
 ## Day 62. 1187. Make Array Strictly Increasing
 ## Day 63. 1732. Find the Highest Altitude
@@ -91,5 +91,5 @@
 ## Day 80 486. Predict the winner.
 ## Day 81. 2798. Number of Employees Who Met the Target
 ## Day 82.   920. Number of Music Playlists
-
+## Day 83. 33. Search in Rotated Sorted Array
 
